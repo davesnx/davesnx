@@ -6,7 +6,7 @@ Passionate in design, people, functional programming, scalability and startups, 
 
 Currently working remotely at [Ahrefs](https://ahrefs.com) as a Software engineer, building [styled-ppx](https://github.com/davesnx/styled-ppx) (styled components for Reason/OCaml and ReScript with typed CSS).
 
-Previously worked at [Draftbit](https://draftbit.com) and [Typeform](typeform.com).
+Previously worked at [Draftbit](https://draftbit.com) and [Typeform](https://typeform.com).
 
 [My personal website](https://sancho.dev)
 [@davesnx](https://twitter.com/davesnx) on Twitter
