@@ -1,6 +1,4 @@
-Hi 👋, I'm David
-
-I'm a developer based on Barcelona.
+Hi 👋, I'm David, a developer based on Barcelona.
 
 Passionate in design, people, functional programming, scalability and startups, but lately about compilers. Even with my limited English, I'm trying to write about those in my [blog](https://sancho.dev/blog), and furthermore I co-host [EmelleTV](https://twitch.tv/emelletv) a streaming show talking about OCaml, Reason and ReScript.
 
