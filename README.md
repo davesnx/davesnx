@@ -1,6 +1,6 @@
 Hi 👋, I'm David (aka davesnx in all profiles)
 
-- Working remotely at [Ahrefs](https://ahrefs.com) as a Software engineer
+- Working remotely at [Ahrefs](https://ahrefs.com) as a Software engineer.
 - Building [styled-ppx](https://github.com/davesnx/styled-ppx): styled components with typed CSS for ReScript, Reason and OCaml.
 - Co-host [EmelleTV](https://twitch.tv/emelletv) a streaming show talking about OCaml, Reason and ReScript.
 - Previously worked at [Draftbit](https://draftbit.com) and [Typeform](https://typeform.com).
