@@ -2,7 +2,7 @@
 
 I'm David Sancho.
 
-I'm a Barcelona based Software Engineer, these days, trying to make cute software with Reason 🟥 and OCaml 🐪. I co-host [EmelleTV](https://emelle.tv/) a streaming show talking about these languages.
+I'm a Software Engineer based in Barcelona, these days, I'm trying to make cute software with Reason 🟥 and OCaml 🐪. I co-host [EmelleTV](https://emelle.tv/) a streaming show talking about these languages.
 
 Currently working at [Ahrefs](http://ahrefs.com/) remotely, building [styled-ppx](http://styled-ppx.vercel.app): Typed styled components for ReScript.
 
