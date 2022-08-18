@@ -1,10 +1,12 @@
-Hi 👋, I'm David.
+### Hi 👋!
 
-- Working remotely at [Ahrefs](https://ahrefs.com) as a Software engineer.
-- These days I'm mostly doing OCaml 🐪 and ReasonML 🟥 (sometimes TypeScript 🛠️).
-- Building [styled-ppx](https://github.com/davesnx/styled-ppx): styled components with typed CSS for ReScript.
-- Co-host [EmelleTV](https://twitch.tv/emelletv), a streaming show talking about OCaml, Reason and ReScript.
-- Previously worked at [Draftbit](https://draftbit.com) and [Typeform](https://typeform.com).
-- Passionate in design, people, functional programming, scalability and startups, but lately compilers. Even with my limited English, I'm trying to write about those in my [blog](https://sancho.dev/blog). 
+I'm David Sancho.
+
+I'm a Barcelona based Software engineer, these days, trying to make cute software with Reason 🟥 and OCaml 🐪. I co-host [EmelleTV](https://emelle.tv/) a streaming show talking about these languages.
+
+Currently working at [Ahrefs](http://ahrefs.com/) remotely, building [styled-ppx](http://styled-ppx.vercel.app): Typed styled components for ReScript.
+
+In my spare time, I train as an amateur triathlete focusing on Olympic and Half Ironman distances, hack on a bunch of Open Source projects and write my thoughts on my [blog](https://sancho.dev/blog). You can read more about me in my [about page](https://sancho.dev/about).
 
   [![twitter/davesnx](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20me)](https://twitter.com/davesnx)
+
