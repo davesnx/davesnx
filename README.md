@@ -10,3 +10,5 @@ Currently, I work at [Ahrefs](https://ahrefs.com/) where I build user interfaces
 - [Reason](https://github.com/reasonml/reason): A programming language that combines the JavaScript and OCaml ecosystems. It is simple, fast, and type-safe.
 
 You can find more about me on my personal site [sancho.dev](https://sancho.dev/) or follow me [@davesnx](https://twitter.com/davesnx)
+
+If you like me work https://github.com/sponsors/davesnx
