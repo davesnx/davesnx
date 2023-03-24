@@ -11,4 +11,4 @@ Currently, I work at [Ahrefs](https://ahrefs.com/) where I build user interfaces
 
 You can find more about me on my personal site [sancho.dev](https://sancho.dev/) or follow me [@davesnx](https://twitter.com/davesnx)
 
-If you like me work: [Let me know!](https://github.com/sponsors/davesnx)
+If you like my work: [Let me know!](https://github.com/sponsors/davesnx)
